@@ -126,3 +126,10 @@ border-radius:10px;
 background:transparent;
 border:2px solid white;
 }
+
+footer{
+background:#1F2937;
+color:white;
+text-align:center;
+padding:30px;
+}
